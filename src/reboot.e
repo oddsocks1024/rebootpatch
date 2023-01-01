@@ -1,0 +1,3 @@
+PROC main()
+ColdReboot()
+ENDPROC
